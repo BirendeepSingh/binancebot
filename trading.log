@@ -1,0 +1,124 @@
+2025-07-08 13:46:58,365 - INFO - Using Binance Futures Testnet
+2025-07-08 16:33:51,601 - INFO - Placing order: {'symbol': 'PYTHON -U "C:\\USERS\\BIRENDEEP SINGH\\DESKTOP\\PYTHON BINANCE\\BINANCE_BOT\\TRADERBOT.PY"', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.0001}
+2025-07-08 16:33:52,432 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:34:06,126 - INFO - Using Binance Futures Testnet
+2025-07-08 16:34:46,251 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.001, 'stopPrice': 58600.0, 'price': 58500.0, 'timeInForce': 'GTC'}
+2025-07-08 16:34:46,837 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:38:41,571 - INFO - Using Binance Futures Testnet
+2025-07-08 16:38:50,189 - INFO - Mark price for BTCUSDT: 108827.6
+2025-07-08 16:40:33,303 - INFO - Using Binance Futures Testnet
+2025-07-08 16:40:39,837 - ERROR - Error fetching mark price for \BTCUSDT: APIError(code=-1121): Invalid symbol.
+2025-07-08 16:41:13,176 - INFO - Placing order: {'symbol': '\\BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.001, 'stopPrice': 65000.0, 'price': 60000.0, 'timeInForce': 'GTC'}
+2025-07-08 16:41:14,078 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:43:46,430 - INFO - Using Binance Futures Testnet
+2025-07-08 16:43:47,042 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:43:47,578 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:46:59,144 - INFO - Using Binance Futures Testnet
+2025-07-08 16:46:59,481 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:46:59,770 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 16:47:08,054 - INFO - Mark price for BTCUSDT: 108845.3
+2025-07-08 16:47:08,360 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.10.19
+2025-07-08 16:47:29,770 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.1, 'stopPrice': 600000.0, 'price': 580000.0, 'timeInForce': 'GTC'}
+2025-07-08 16:47:29,978 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:42:57,199 - INFO - Using Binance Futures Testnet
+2025-07-08 20:42:58,311 - INFO - Mark price for BTCUSDT: 108415.4
+2025-07-08 20:42:58,850 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:42:59,405 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:42:59,925 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:43:39,131 - INFO - Using Binance Futures Testnet
+2025-07-08 20:43:39,131 - INFO - Using Binance Futures Testnet
+2025-07-08 20:43:39,937 - INFO - Mark price for BTCUSDT: 108374.26916667
+2025-07-08 20:43:39,937 - INFO - Mark price for BTCUSDT: 108374.26916667
+2025-07-08 20:43:40,502 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:43:40,502 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:43:40,800 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:43:40,800 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:43:41,039 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:43:41,039 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:43:58,849 - INFO - Using Binance Futures Testnet
+2025-07-08 20:43:58,849 - INFO - Using Binance Futures Testnet
+2025-07-08 20:43:58,849 - INFO - Using Binance Futures Testnet
+2025-07-08 20:43:59,601 - INFO - Mark price for BTCUSDT: 108396.4
+2025-07-08 20:43:59,601 - INFO - Mark price for BTCUSDT: 108396.4
+2025-07-08 20:43:59,601 - INFO - Mark price for BTCUSDT: 108396.4
+2025-07-08 20:43:59,850 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:43:59,850 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:43:59,850 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:00,124 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:00,124 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:00,124 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:00,385 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:00,385 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:00,385 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:00,393 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.0001}
+2025-07-08 20:44:00,393 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.0001}
+2025-07-08 20:44:00,393 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.0001}
+2025-07-08 20:44:00,741 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:00,741 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:00,741 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:09,829 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:09,829 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:09,829 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:09,829 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:10,389 - INFO - Mark price for BTCUSDT: 108415.4
+2025-07-08 20:44:10,389 - INFO - Mark price for BTCUSDT: 108415.4
+2025-07-08 20:44:10,389 - INFO - Mark price for BTCUSDT: 108415.4
+2025-07-08 20:44:10,389 - INFO - Mark price for BTCUSDT: 108415.4
+2025-07-08 20:44:10,605 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:10,605 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:10,605 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:10,605 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,199 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,199 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,199 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,199 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,499 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:11,499 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:11,499 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:11,499 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:11,512 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0001, 'stopPrice': 0.0, 'price': 0.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:11,512 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0001, 'stopPrice': 0.0, 'price': 0.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:11,512 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0001, 'stopPrice': 0.0, 'price': 0.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:11,512 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0001, 'stopPrice': 0.0, 'price': 0.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:11,724 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,724 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,724 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:11,724 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:34,316 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:34,316 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:34,316 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:34,316 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:34,316 - INFO - Using Binance Futures Testnet
+2025-07-08 20:44:34,626 - INFO - Mark price for BTCUSDT: 108423.42231884
+2025-07-08 20:44:34,626 - INFO - Mark price for BTCUSDT: 108423.42231884
+2025-07-08 20:44:34,626 - INFO - Mark price for BTCUSDT: 108423.42231884
+2025-07-08 20:44:34,626 - INFO - Mark price for BTCUSDT: 108423.42231884
+2025-07-08 20:44:34,626 - INFO - Mark price for BTCUSDT: 108423.42231884
+2025-07-08 20:44:35,134 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,134 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,134 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,134 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,134 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,674 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,674 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,674 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,674 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,674 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:35,966 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:35,966 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:35,966 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:35,966 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:35,966 - ERROR - Error fetching order history for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 42.108.27.74
+2025-07-08 20:44:35,981 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0010000000000000002, 'stopPrice': 20.0, 'price': 19.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:35,981 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0010000000000000002, 'stopPrice': 20.0, 'price': 19.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:35,981 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0010000000000000002, 'stopPrice': 20.0, 'price': 19.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:35,981 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0010000000000000002, 'stopPrice': 20.0, 'price': 19.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:35,981 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.0010000000000000002, 'stopPrice': 20.0, 'price': 19.0, 'timeInForce': 'GTC'}
+2025-07-08 20:44:36,280 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:36,280 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:36,280 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:36,280 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:44:36,280 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:50:13,313 - INFO - Using Binance Futures Testnet
+2025-07-08 20:50:14,024 - ERROR - Error fetching balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 20:50:14,556 - ERROR - Error fetching open positions: APIError(code=-2015): Invalid API-key, IP, or permissions for action
